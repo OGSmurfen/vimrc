@@ -1,0 +1,21 @@
+Vim config
+ 18 :syntax on
+ 17 :set number
+ 16 :set relativenumber
+ 15 :set autoindent
+ 14 :set expandtab
+ 13 :set smarttab
+ 12 :set tabstop=2
+ 11 :set shiftwidth=2
+ 10 :set softtabstop=2
+  9 :colorscheme industry
+  8 :set mouse=a
+  7 :set ruler
+  6 
+  5 map <Down> <NOP>
+  4 map <Up> <NOP>
+  3 map <Left> <NOP>
+  2 map <Right> <NOP>
+  1 
+19  " inore ii <Esc>
+~
